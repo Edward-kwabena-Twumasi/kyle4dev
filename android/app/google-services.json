@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "58453714103",
+    "project_id": "kyle4-fb461",
+    "storage_bucket": "kyle4-fb461.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58453714103:android:00fbc7e25df8b894a6d932",
+        "android_client_info": {
+          "package_name": "com.example.kyle4app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58453714103-r1sd0517btk045kqj35rktraspqndemj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS_X_asUqGywIsHmET_6fsQc2_Bn0dZx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58453714103-r1sd0517btk045kqj35rktraspqndemj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
